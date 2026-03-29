@@ -1,1 +1,1 @@
-{"title": "Hello", "message": "A new version is available with all features unlocked!", "file_url": "https://example.com/mod.apk", "show_update_later": true, "version_code": 2}
+{"title": "Hello", "message": "A new version is available with all features unlocked!", "file": "https://example.com/mod.apk", "version_code": 2}
